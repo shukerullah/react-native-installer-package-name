@@ -1,0 +1,40 @@
+{
+  "name": "react-native-installer-package-name",
+  "title": "React Native Installer Package Name",
+  "version": "1.0.0",
+  "description": "Retrieve the package name of the application that installed a package. This identifies which market the package came from.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shukerullah/react-native-installer-package-name.git",
+    "baseUrl": "https://github.com/shukerullah/react-native-installer-package-name"
+  },
+  "keywords": [
+    "react-native",
+    "installer",
+    "source",
+    "store",
+    "android",
+    "amazon",
+    "samsung",
+    "huawei"
+  ],
+  "author": {
+    "name": "Pir Shukarullah Shah",
+    "email": "shuker_rashdi@yahoo.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">=16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
